@@ -1,16 +1,8 @@
-# wordle
+# Christmas Wordle (FOR iPhone 15 PRO)
 
-A new Flutter project.
+Attention: since I coded this specifically for my girlfriend, it is designed to run on the iPhone 15 Pro. On other dimensions it will probably crash.
 
-## Getting Started
+## What This Is:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Last year, I decided to surprise my girlfriend with a trip to Paris over New Year's. I wanted to make the surprise a surprise, and therefore 
+I coded this classic wordle app that reveals the destination (PARIS).
