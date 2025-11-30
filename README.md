@@ -6,3 +6,5 @@ Attention: since I coded this specifically for my girlfriend, it is designed to 
 
 Last year, I decided to surprise my girlfriend with a trip to Paris over New Year's. I wanted to make the surprise a surprise, and therefore 
 I coded this classic wordle app that reveals the destination (PARIS).
+
+Example screenshots of the app can be found in the screenshots folder!
